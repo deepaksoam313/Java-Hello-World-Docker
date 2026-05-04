@@ -3,7 +3,7 @@ kind: Service
 
 metadata:
   name: nginx-service
-  namepace: nginx-argo
+  namespace: nginx-argo
 
 spec:
   selector:
