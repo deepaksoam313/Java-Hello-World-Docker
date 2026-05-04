@@ -3,6 +3,7 @@ kind: Deployment
 
 metadata:
   name: nginx-deployment
+  namespace: nginx-argo
   labels:
     app: nginx
 
